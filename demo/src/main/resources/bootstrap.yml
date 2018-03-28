@@ -1,0 +1,7 @@
+info:
+  app:
+    name: hahaha
+    encoding: @project.sourceEncoding@
+    java:
+      source: @java.version@
+      target: @java.version@
