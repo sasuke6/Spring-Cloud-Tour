@@ -1,6 +1,6 @@
 spring:
   application:
-    name: fegin-consume
+    name: feign-consume
 server:
   port: 9001
 eureka:
